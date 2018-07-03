@@ -1,0 +1,2 @@
+# Contrast
+Contrast ".pgm" pictures
